@@ -1,0 +1,10 @@
+port = 8080
+threads = 1
+home = ../www/
+logfile = ../logging
+ip = 127.0.0.1
+timeout = 10
+concurrent = 1024
+readbuf = 409600
+
+
